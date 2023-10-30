@@ -48,3 +48,16 @@ body{
 .padd{
     padding: 1rem;
 }
+.fs-70{
+    font-size: 70px;
+    font-weight: bold;
+}
+.fizzcolor{
+    color: rgb(88, 122, 155);
+}
+.buzzcolor{
+    color: darkseagreen;
+}
+.fbcolor{
+    color:rgb(87, 65, 107);
+}
